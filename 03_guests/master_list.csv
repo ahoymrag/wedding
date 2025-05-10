@@ -1,0 +1,14 @@
+Name,Email,Group,RSVP Status,Seat Location
+John Smith,john.smith@email.com,Family,Confirmed,Table 1
+Jane Smith,jane.smith@email.com,Family,Confirmed,Table 1
+Michael Johnson,michael.j@email.com,Friends,Pending,-
+Sarah Johnson,sarah.j@email.com,Friends,Confirmed,Table 2
+David Chen,david.chen@email.com,Family,Confirmed,Table 3
+Lisa Chen,lisa.chen@email.com,Family,Confirmed,Table 3
+Robert Williams,rob.w@email.com,Church,Confirmed,Table 4
+Emily Williams,emily.w@email.com,Church,Confirmed,Table 4
+James Brown,james.b@email.com,Friends,Declined,-
+Maria Garcia,maria.g@email.com,Family,Pending,-
+Carlos Garcia,carlos.g@email.com,Family,Pending,-
+Patricia Lee,pat.lee@email.com,Church,Confirmed,Table 5
+Thomas Lee,tom.lee@email.com,Church,Confirmed,Table 5 
